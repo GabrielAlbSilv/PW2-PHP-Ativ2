@@ -9,6 +9,16 @@
 </head>
 <body>
 
+<?php 
+/*São Paulo Brasil
+Escola: Etec Irmã Agostina
+Curso: Desenvolvimento de Sistemas
+Matéria: Programação Web 2
+Professor(a): Gilberto Alexandre das Neves
+Atividade 2 
+Aluno(a): Gabriel Albuquerque de Moura Silva
+Data: 21/10/2021*/
+?>
     <section class="contairner grid grid-template-columns">
         <div class="item">
         <h1>Formulário de Avaliação</h1>
